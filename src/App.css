@@ -1,0 +1,14 @@
+.App {
+  width: 450px;
+  margin-inline: auto;
+  margin-block: 40px;
+  padding: 15px;
+  border: 1px solid #0fb0fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px 3px #777;
+  position: relative;
+}
+
+.title-app h1 {
+  color: #0fb0fa;
+}

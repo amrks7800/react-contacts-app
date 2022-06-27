@@ -1,0 +1,39 @@
+.contacts {
+  list-style: none;
+  padding: 0;
+  min-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.list-contact {
+  border: 1px solid #0fb0fa;
+  padding: 10px;
+  border-radius: 6px;
+  min-width: 428px;
+}
+
+.list-contact .name {
+  font-size: 2rem;
+  margin-bottom: 5px;
+  color: #0fb0fa;
+}
+
+.list-contact .title {
+  font-size: 15px;
+  margin-bottom: 5px;
+  color: #777;
+}
+
+.list-contact button {
+  appearance: none;
+  border: 1px solid #0fb0fa;
+  border-radius: 5px;
+  background: none;
+  color: #0fb0fa;
+  padding: 4px;
+}
